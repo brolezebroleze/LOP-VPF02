@@ -46,7 +46,7 @@ int main() {
     }
     fclose(arquivo);
     printf("========================================================================\n");
-    printf("                       RELATORIO DE INVENTÁRIO                          \n");
+    printf("                       RELATÓRIO DE INVENTÁRIO                          \n");
     printf("========================================================================\n");
     printf("%-15s | %-12s | %-15s | %-20s\n", "Produto", "Quantidade", "Localização   ", "Valor Total");
     printf("------------------------------------------------------------------------\n");
