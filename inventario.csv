@@ -1,0 +1,6 @@
+﻿Produto;Quantidade;Localização;Valor;Unitário
+Cadeira;50;Armazém ;A;150.00
+Mesa;30;Galpão ;A;300.00
+Computador ;20;Armazém ;B;1200.00
+Impressora;10;Galpão ;A;500.00
+Monitor;20;Armazém ;B;800.00
